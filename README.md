@@ -7,6 +7,7 @@
 - [Ant Design](https://ant.design/)
 - [Blueprint](http://blueprintjs.com/)
 - [Carbon Design System](http://carbondesignsystem.com/)
+- [Garden](https://garden.zendesk.com/react-components/)
 - [Grommet](http://grommet.io/)
 - [Lightning Design System](https://react.lightningdesignsystem.com/)
 - [Material UI](https://www.material-ui.com/#/)
