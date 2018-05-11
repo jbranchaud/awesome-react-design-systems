@@ -33,6 +33,6 @@
 
 #### React Native
 
-- [React Native Elements](https://react-native-training.github.io/react-native-elements/) [[github](https://github.com/react-native-training/react-native-elements)]
-- [NativeBase](https://nativebase.io/) [[github](https://github.com/GeekyAnts/NativeBase)]
+- [React Native Elements](https://react-native-training.github.io/react-native-elements/) [[github](https://github.com/react-native-training/react-native-elements)] - React Native Training
+- [NativeBase](https://nativebase.io/) [[github](https://github.com/GeekyAnts/NativeBase)] - GeekyAnts
 - [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction) [[github](https://github.com/shoutem/ui)] - Shoutem
