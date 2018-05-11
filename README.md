@@ -1,4 +1,5 @@
 # Awesome React Design Systems
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A collection of awesome React-based design systems
 
