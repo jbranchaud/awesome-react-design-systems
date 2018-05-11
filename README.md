@@ -7,7 +7,7 @@
 
 - [Ant Design](https://ant.design/) [[github](https://github.com/ant-design/ant-design/)] - Ant Financial
 - [Atlaskit](http://atlaskit.atlassian.com/) [[bitbucket](https://bitbucket.org/atlassian/atlaskit-mk-2)] - Atlassian
-- [Backpack](https://backpack.github.io/) [[github](https://github.com/Skyscanner/backpack) - Skyscanner
+- [Backpack](https://backpack.github.io/) [[github](https://github.com/Skyscanner/backpack)] - Skyscanner
 - [Blueprint](http://blueprintjs.com/) [[github](https://github.com/palantir/blueprint)] - Palantir
 - [Canvas](https://canvas.hubspot.com/) [[github](https://github.com/HubSpot/canvas)] - Hubspot
 - [Carbon Design System](http://carbondesignsystem.com/) [[github](https://github.com/carbon-design-system/carbon-components)] - IBM
