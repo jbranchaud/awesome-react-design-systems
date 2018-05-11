@@ -3,7 +3,7 @@
 
 > A collection of awesome React-based design systems
 
-#### Design Systems
+#### React Design Systems
 
 - [Ant Design](https://ant.design/) [[github](https://github.com/ant-design/ant-design/)] - Ant Financial
 - [Atlaskit](http://atlaskit.atlassian.com/) [[bitbucket](https://bitbucket.org/atlassian/atlaskit-mk-2)] - Atlassian
@@ -28,12 +28,12 @@
 - [Swarm Design System](https://meetup.github.io/swarm-design-system/) [[github](https://github.com/meetup/swarm-design-system)] - Meetup
 - [Uniform](http://uniform.hudl.com/) - Hudl
 
-#### Misc.
-
-- [React Material Design Icons](https://jxnblk.com/rmdi/) [[github](https://github.com/jxnblk/rmdi)] - Brent Jackson
-
-#### React Native
+#### React Native Design Systems
 
 - [React Native Elements](https://react-native-training.github.io/react-native-elements/) [[github](https://github.com/react-native-training/react-native-elements)] - React Native Training
 - [NativeBase](https://nativebase.io/) [[github](https://github.com/GeekyAnts/NativeBase)] - GeekyAnts
 - [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction) [[github](https://github.com/shoutem/ui)] - Shoutem
+
+#### Misc.
+
+- [React Material Design Icons](https://jxnblk.com/rmdi/) [[github](https://github.com/jxnblk/rmdi)] - Brent Jackson
