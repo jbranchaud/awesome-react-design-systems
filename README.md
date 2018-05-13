@@ -22,6 +22,7 @@
 - [Plasma](http://plasma.guide/) [[github](https://github.com/wework/plasma)] - WeWork
 - [Pluralsight Design System](https://design-system.pluralsight.com/) [[github](https://github.com/pluralsight/design-system)] - Pluralsight
 - [Polaris](https://polaris.shopify.com/) [[github](https://github.com/Shopify/polaris)] - Shopify
+- [Priceline One](https://pricelinelabs.github.io/design-system/) [[github](https://github.com/pricelinelabs/design-system)] - Priceline
 - [Ring UI](http://www.jetbrains.org/ring-ui/index.html) [[github](https://github.com/JetBrains/ring-ui)] - JetBrains
 - [Seek Style Guide](https://seek-oss.github.io/seek-style-guide/) [[github](https://github.com/seek-oss/seek-style-guide)] - Seek
 - [Spark Design System](https://sparkdesignsystem.com/) [[github](https://github.com/sparkdesignsystem/spark-design-system)] - Quicken Loans
