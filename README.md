@@ -15,7 +15,7 @@ This is a collection of design systems made up of reusable
 
 - [React Design Systems](#react-design-systems)
 - [React Native Design Systems](#react-native-design-systems)
-- [Misc](#misc)
+- [Misc.](#misc)
 
 <hr />
 
