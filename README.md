@@ -8,7 +8,7 @@
 -- Will Fanguy, [_A comprehensive guide to design
 systems_](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 
-This is a collection of design systems made up of reusable
+A curated list of design systems made up of reusable
 [React](https://reactjs.org/) components.
 
 #### Contents
