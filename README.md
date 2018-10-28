@@ -1,7 +1,17 @@
 # Awesome React Design Systems
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A collection of awesome React-based design systems
+> "A design system is a collection of reusable components, guided by clear
+> standards, that can be assembled together to build any number of
+> applications."
+
+-- Will Fanguy, [_A comprehensive guide to design
+systems_](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+
+This is a collection of design systems made up of reusable
+[React](https://reactjs.org/) components.
+
+#### Contents
 
 - [React Design Systems](#react-design-systems)
 - [React Native Design Systems](#react-native-design-systems)
