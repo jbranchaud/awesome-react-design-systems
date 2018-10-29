@@ -1,5 +1,4 @@
-# Awesome React Design Systems
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome React Design Systems [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > "A design system is a collection of reusable components, guided by clear
 > standards, that can be assembled together to build any number of
