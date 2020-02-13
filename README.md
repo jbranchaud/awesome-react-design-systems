@@ -27,6 +27,7 @@ A curated list of design systems made up of reusable
 - [Canvas](https://canvas.hubspot.com/) [[github](https://github.com/HubSpot/canvas)] - Hubspot - HubSpot Canvas is the design system that we at HubSpot use to build our products.
 - [Carbon Design System](http://carbondesignsystem.com/) [[github](https://github.com/carbon-design-system/carbon-components)] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
 - [cf-ui](https://cloudflare.github.io/cf-ui/) [[github](https://github.com/cloudflare/cf-ui)] - Cloudflare - A set of packages used to build UIs at Cloudflare using projects such as React.
+- [Chakra UI](https://chakra-ui.com/) [[github](https://github.com/chakra-ui/chakra-ui)]= 
 - [Garden](https://garden.zendesk.com/react-components/) [[github](https://github.com/zendeskgarden/react-components)] - Zendesk Garden - our curated collection of UI goodness.
 - [Grommet](http://grommet.io/) [[github](https://github.com/grommet/grommet)] - Hewlett Packard - Grommet provides all the guidance, components, and design resources you need to take your ideas from concept to a real application.
 - [Hack Club Design System](https://design.hackclub.com) [[github](https://github.com/hackclub/design-system)] - Hack Club - A collection of React components designed for speed, consistency, and best practices.
