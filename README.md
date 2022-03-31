@@ -20,6 +20,7 @@ A curated list of design systems made up of reusable
 
 #### React Design Systems
 
+- [AgnosticUI](https://www.agnosticui.com/) [[GitHub](https://github.com/AgnosticUI/agnosticui)] - Accessible React component primitives that also work with Vue 3, Svelte, and Angular.
 - [Ant Design](https://ant.design/) [[github](https://github.com/ant-design/ant-design/)] - Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
 - [Atlaskit](http://atlaskit.atlassian.com/) [[bitbucket](https://bitbucket.org/atlassian/atlaskit-mk-2)] - Atlassian - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
 - [Backpack](https://backpack.github.io/) [[github](https://github.com/Skyscanner/backpack)] - Skyscanner - Backpack is a collection of design resources, reusable components and guidelines for creating Skyscanner products.
