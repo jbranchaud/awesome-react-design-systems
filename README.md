@@ -32,7 +32,7 @@ A curated list of design systems made up of reusable
 - [Hack Club Design System](https://design.hackclub.com) [[github](https://github.com/hackclub/design-system)] - Hack Club - A collection of React components designed for speed, consistency, and best practices.
 - [Lightning Design System](https://react.lightningdesignsystem.com/) [[github](https://github.com/salesforce/design-system-react)] - Salesforce - A React implementation of the Lightning Design System.
 - [Material UI](https://www.material-ui.com/#/) [[github](https://github.com/mui-org/material-ui)] - Google - React components that implement Google's Material Design.
-- [Mineral UI](https://mineral-ui.com/) [[github](https://github.com/mineral-ui/mineral-ui)] - CA Technologies - An open-source design system created to simplify building appealing, modern software experiences.
+- [Mineral UI](https://mineral-ui.netlify.app/) [[github](https://github.com/mineral-ui/mineral-ui)] - CA Technologies - An open-source design system created to simplify building appealing, modern software experiences.
 - [MongoDB Design](http://mongodb.design/#/) [[github](https://github.com/mongodb/design)] - MongoDB - Design for mission-critical applications.
 - [Pivotal UI](https://styleguide.pivotal.io/) [[github](https://github.com/pivotal-cf/pivotal-ui)] - Pivotal - A collection of React components that are styled for the Pivotal brand.
 - [Plasma](http://plasma.guide/) [[github](https://github.com/wework/plasma)] - WeWork - A design system for building internal business tools at WeWork.
